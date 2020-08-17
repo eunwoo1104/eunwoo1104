@@ -8,6 +8,7 @@
 - 제이봇 개발자
 - ~~왜 있는지 모르겠고 역시나 일 안하는~~ discordpy-ko 프로젝트 시작한 사람
 - ~~관심을 원함~~  
+
 여러분 라이센스는 잘 지킵시다. 당해보니까 코드 보호하는게 얼마나 중요한지 알겠더라고요...
 
 ![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)
