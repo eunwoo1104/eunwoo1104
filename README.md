@@ -9,4 +9,6 @@
 - ~~왜 있는지 모르겠고 역시나 일 안하는~~ discordpy-ko 프로젝트 시작한 사람
 - ~~관심을 원함~~  
 
-![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)
+[Sourcerer 프로필](https://sourcerer.io/eunwoo1104)  
+
+![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)  
