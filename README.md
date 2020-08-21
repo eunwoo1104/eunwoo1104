@@ -12,3 +12,5 @@
 [Sourcerer 프로필](https://sourcerer.io/eunwoo1104)  
 
 ![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo1104&layout=compact&theme=dark)
