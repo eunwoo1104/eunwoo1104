@@ -17,4 +17,8 @@ Planning to learn: C
 (sunday) ~ 4:00 PM / 8:00 PM ~
 
 ## Contact to me via...
-Discord: `eunwoo1104#9600`
+Discord: `eunwoo1104#9600`  
+
+![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo1104&layout=compact&theme=dark)
+~~I think I love Python too much~~
