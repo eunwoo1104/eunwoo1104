@@ -14,10 +14,12 @@ Planning to learn: C
 
 ### Weekend
 (saturday) 5:00 PM ~ 12:00 AM  
-(sunday) ~ 4:00 PM / 8:00 PM ~
+(sunday) 12:00 PM ~ 4:00 PM / 8:00 PM ~ 12:00 AM
 
 ## Contact to me via...
 Discord: `eunwoo1104#9600`  
+
+## Extra Info
 
 ![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo1104&layout=compact&theme=dark)  
