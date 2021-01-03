@@ -1,5 +1,5 @@
 # Hello there! Welcome to my profile! 👋
-Just a normal Korean student who want to be programmer.  
+Just a normal Korean high school student who want to be programmer.  
 
 ## Programming Languages
 Main: Python  
