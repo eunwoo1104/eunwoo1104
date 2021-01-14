@@ -1,1 +1,1 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/224bdbe58f8f43f28a093a33a7546456)](https://app.codacy.com/gh/eunwoo1104/discord-py-slash-command?utm_source=github.com&utm_medium=referral&utm_content=eunwoo1104/discord-py-slash-command&utm_campaign=Badge_Grade_Settings) <a href="https://discord.gg/KkgMBVuEkx"> <img alt="Discord" src="https://img.shields.io/discord/789032594456576001" /> </a>
+[```aaa```](https://dashboard.teameg.tk/level/653083797763522580)
