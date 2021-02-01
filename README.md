@@ -23,4 +23,5 @@ Discord: `eunwoo1104#9600`
 
 ![eunwoo1104's github stats](https://github-readme-stats.vercel.app/api?username=eunwoo1104&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo1104&layout=compact&theme=dark)  
-~~I think I love Python too much~~
+
+[CodersRank Profile](https://profile.codersrank.io/user/eunwoo1104/)
