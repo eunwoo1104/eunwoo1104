@@ -13,8 +13,7 @@ Planning to learn: C
 (at online school) 7:00 AM ~ 12:00 AM  
 
 ### Weekend
-(saturday) 5:00 PM ~ 12:00 AM  
-(sunday) 12:00 PM ~ 4:00 PM / 8:00 PM ~ 12:00 AM
+Unfortunately, it is dynamic now so I can't tell exact time.
 
 ## Contact to me via...
 Discord: `eunwoo1104#9600`  
