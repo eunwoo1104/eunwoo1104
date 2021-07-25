@@ -1,19 +1,18 @@
 # Hello there! Welcome to my profile! 👋
 Just a normal Korean high school student who want to be programmer.  
 
-## Programming Languages
-Main: Python  
-Learning: Java  
-Planning to learn: C  
+## Stack
+### Language
+Python  
+C  
+Java  
 
-## I'm active at... (all at KST)
-
-### Week
-(mostly) 10:00 PM ~ 12:00 AM  
-(at online school) 7:00 AM ~ 12:00 AM  
-
-### Weekend
-Unfortunately, it is dynamic now so I can't tell exact time.
+### Libs/Tools
+Qt (PyQt/PySide)  
+MariaDB  
+Git  
+GitHub  
+Docker  
 
 ## Contact to me via...
 Discord: `eunwoo1104#9600`  
